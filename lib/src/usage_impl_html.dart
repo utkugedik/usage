@@ -4,7 +4,7 @@
 
 import 'dart:async';
 import 'dart:convert' show jsonEncode, jsonDecode;
-import 'dart:html';
+import 'package:universal_html/html.dart';
 
 import 'usage_impl.dart';
 
